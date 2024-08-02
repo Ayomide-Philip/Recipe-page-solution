@@ -24,12 +24,17 @@ look responsive, note this site wont display on any screen less than 320px
 - CSS Grid
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<div class="grid-container">
+  <div>Calories</div>
+  <div class="measurment">277kcal</div>
+  <div>Crabs</div>
+  <div class="measurment">0g</div>
+  <div>Protein</div>
+  <div class="measurment">20g</div>
+  <div>Fat</div>
+  <div class="measurment">22g</div>
+</div>
 ```
 ```css
 .grid-container{
