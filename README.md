@@ -43,20 +43,11 @@ To see how you can add code snippets, see below:
     row-gap: 10px;
     font-family: cursive;
 }
-```S
+```
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
 - Frontend Mentor - [@Ayomide-Philip](https://www.frontendmentor.io/profile/@Ayomide-Philip)
 - Facebook - [Da Emperor](https://facebook.com/ayo.areo.90)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
