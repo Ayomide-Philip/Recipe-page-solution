@@ -10,7 +10,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 This is a webpage i designed for my challenge. In this chsllenge i used some important CSS property to make it 
@@ -44,13 +43,9 @@ To see how you can add code snippets, see below:
     row-gap: 10px;
     font-family: cursive;
 }
-```
-
+```S
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
