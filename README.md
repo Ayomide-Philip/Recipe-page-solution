@@ -51,7 +51,6 @@ look responsive, note this site wont display on any screen less than 320px
     font-family: cursive;
 }
 ```
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
 ## Author
