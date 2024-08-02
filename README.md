@@ -11,6 +11,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [Author](#author)
 
 
+  ### Screenshot
+
+![](./preview.jpg)
+
+
 ## Overview
 This is a webpage i designed for my challenge. In this chsllenge i used some important CSS property to make it 
 look responsive, note this site wont display on any screen less than 320px
