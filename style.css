@@ -50,7 +50,7 @@ body > div.main-container > img {
 }
 
 p{
-    font-family: cursive;
+    font-family: Young Serif;
     font-weight: 500;
 }
 
@@ -61,7 +61,7 @@ h2{
 }
 
 li{
-    font-family: cursive;
+    font-family: Young Serif;
 }
 
 div.preparation li{
@@ -87,44 +87,8 @@ span{
     font-weight: bolder;
 }
 
-.small-screen{
-    display: flex;
-    flex-direction: column;
-    height: 70vh;
-    align-content: center;
-    justify-content: center;
-    display: none;
-}
 
-.small-screen h1{
-    font-family: cursive;
-    text-align: center;
-    order: 0;
-}
 @media only screen and (max-width: 320px) {
-div.main-container{
-    display: none;
-}
-
-.small-screen{
-    display: block;
-    display: flex;
-    flex-direction: column;
-    height: 70vh;
-    align-content: center;
-    justify-content: center;
-}
-.small-screen h1{
-    font-family: cursive;
-    text-align: center;
-    order: 0;
-}
-.small-screen p{
-    font-family: monospace;
-    font-weight: bolder;
-    font-size: large;
-    text-align: center;
-}
 .attribution{
     order: 1;
     font-size: larger;
